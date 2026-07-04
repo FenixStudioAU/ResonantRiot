@@ -1,4 +1,4 @@
-Fenix AI Games – Resonanr Riot is part of the Fenix AI Games project: a collection of browser-based games created with AI, using simple prompts, plain HTML/JavaScript, and minimal tooling.
+Fenix AI Games – Resonant Riot is part of the Fenix AI Games project: a collection of browser-based games created with AI, using simple prompts, plain HTML/JavaScript, and minimal tooling.
 
 The goal is to see how far AI-assisted game development can go without relying on full game engines, complex build systems, or heavy external workflows.
 
